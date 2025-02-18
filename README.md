@@ -1,4 +1,4 @@
-## Hola👋 soy Yiseth Garcia
+##                            Hola👋, soy Yiseth Garcia
 Soy una desarrolladora junior con ganas de obtener nuevos conocimientos y ponerlos en práctica
 
 <!--
