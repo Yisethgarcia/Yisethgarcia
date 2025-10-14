@@ -16,5 +16,5 @@ Mi meta es seguir creciendo tanto a nivel acadèmico como profesional, hasta lle
 💻 **Competencias tècnicas**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,mongodb,github" />
 </p>
