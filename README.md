@@ -50,5 +50,22 @@ Mi meta es seguir creciendo tanto a nivel acadèmico como profesional, hasta lle
 </div>
 
 ---
-🧠 Cuento con habilidades orientadas al trabajo en equipo y la comunicaciòn, asì como una sòlida capacidad para la resoluciòn de problemas mediante el pensamiento lògico.
+🧠 Cuento con habilidades orientadas al trabajo en equipo y la comunicaciòn, asì como una sòlida capacidad para la resoluciòn de problemas mediante el pensamiento lògico. 
+
+Me caracterizo por mi creatividad, atención al detalle y adaptabilidad frente a nuevos desafíos. Además, mantengo un alto nivel de compromiso, responsabilidad y enfoque en resultados, buscando siempre mejorar y aprender continuamente.
+
+---
+🚀 **Proyectos**
+
+Puedes conocer mis proyectos y ejercicios de desarrollo en mi perfil de GitHub.
+
+---
+📬 **Contacto**
+
+Si deseas comunicarte conmigo, pudes escribirme a:
+
+📧 yiseth15g@gmail.com
+
+💼 www.linkedin.com/in/yiseth-garcía-castañeda-36612634b 
+
 
