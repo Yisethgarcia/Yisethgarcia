@@ -52,3 +52,7 @@ Mi meta es seguir creciendo tanto a nivel acadèmico como profesional, hasta lle
     </tr>
   </table>
 </div>
+
+---
+🧠 Cuento con habilidades orientadas al trabajo en equipo y la comunicaciòn, asì como una sòlida capacidad para la resoluciòn de problemas mediante el pensamiento lògico.
+
