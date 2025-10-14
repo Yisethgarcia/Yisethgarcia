@@ -42,10 +42,6 @@ Mi meta es seguir creciendo tanto a nivel acadèmico como profesional, hasta lle
         <br>MongoDB
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </td>
