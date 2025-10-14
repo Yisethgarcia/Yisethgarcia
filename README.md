@@ -66,9 +66,9 @@ Si deseas comunicarte conmigo, pudes escribirme a:
 
 📧 yiseth15g@gmail.com
 
-💼 [LinkedIn] (www.linkedin.com/in/yiseth-garcía-castañeda-36612634b)
+💼 <a href="https://www.linkedin.com/in/yiseth-garc%C3%ADa-casta%C3%B1eda-36612634b" target="_blank">LinkedIn</a>
 
 ---
 🌱 **Actualmente**
 
-- Profundizando mis conocimientos en **Node.js, React y bases de datos.**
+- Profundizando mis conocimientos en **Node.js, React** y **bases de datos.**
